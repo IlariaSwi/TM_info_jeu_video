@@ -11,8 +11,7 @@ layout: default
 
 Voici les échéances principales à garder en tête pour le développement de ce projet :
 
-- Mi-février : schéma des classes ;
-- blablabla
+![Timeline du projet](./images/gantt.png)
 
 ## Programmation orientée objets 
 
@@ -20,7 +19,7 @@ Voici les échéances principales à garder en tête pour le développement de c
 [Slides d'introduction à la POO](./ressources/introduction.pdf)
 
 
-[Formes géométriques (fichier Python)](./ressources/rectangle.py)
+[Le rectangle (fichier Python)](./ressources/rectangle.py)
 
 
 ### Ressources extra
