@@ -5,14 +5,12 @@
 
 .page-header {
   background-image: url("../../images/Icone.png");
-  background-size: cover;
+  background-size: 70%;
   background-position: center;
   background-repeat: no-repeat;
-}
-
-.page-header {
   position: relative;
 }
+
 
 .page-header::before {
   content: "";
