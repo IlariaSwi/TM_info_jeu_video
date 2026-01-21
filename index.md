@@ -25,9 +25,9 @@ Voici les échéances principales à garder en tête pour le développement de c
 ### Ressources extra
 
 
-- Tutoriel sur la création de classes et instanciation d'objets [ici](https://www.datacamp.com/fr/tutorial/python-oop-tutorial?).
+- [Tutoriel](https://www.datacamp.com/fr/tutorial/python-oop-tutorial?) sur la création de classes et instanciation d'objets.
 
-- Vidéo d'introduction avec focus sur le constructeur [ici](https://www.youtube.com/watch?v=h6jciR8K43E).
+- [Vidéo d'introduction](https://www.youtube.com/watch?v=h6jciR8K43E) avec focus sur le constructeur .
 
 
 

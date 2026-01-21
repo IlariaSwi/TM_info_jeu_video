@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url("./images/Icone.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.page-header {
+  position: relative;
+}
+
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.page-header * {
+  position: relative;
+}
