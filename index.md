@@ -40,7 +40,7 @@ Voici les échéances principales à garder en tête pour le développement de c
 
 [Slides d'introduction](./ressources/interface/Intro-niceGUI.pdf) à l'interface graphique et réseau
 
-[Exemple](./ressources/interface/code/) présenté en classe avec les différentes versions
+[Exemple](./ressources/interface/code.zip) présenté en classe avec les différentes versions
 
 ### Tutoriels, documentation et liens utiles:
 
