@@ -5,21 +5,9 @@ layout: default
 ---
 
 
+bvasdhfdiosuoguvzdhvdivlbfxleisrjghbaeijrbnaijr
 
-
-# Echelle temporelle
-
-Voici les échéances principales à garder en tête pour le développement de ce projet :
-
-![Timeline du projet](./images/gantt.png)
-
-## Programmation orientée objets 
-
-
-[Slides d'introduction à la POO](./ressources/introduction.pdf)
-
-
-[Le rectangle (fichier Python)](./ressources/rectangle.py)
+hfsdbufahbfuaze
 
 
 
